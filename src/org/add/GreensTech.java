@@ -14,6 +14,9 @@ System.out.println("Area name : OMR");
 	public void greensVelacherry(){
 		System.out.println("Area name : Velacherry");
 	}
+	public void shiny(){
+		System.out.println("Area name : princy");
+	}
 	public void greensAnnaNagar(){
 		System.out.println("Area name : AnnaNagar");
 	}
